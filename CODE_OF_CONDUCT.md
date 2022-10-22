@@ -59,13 +59,13 @@ If a community member engages in unacceptable behavior, the community organizers
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. levbulychou1234567890@outlook.com.
 
-opensource.levabrands.ev/code_of_conduct#report
+[opensource.levabrands.dev/code_of_conduct/report](https://opensource.levabrands.dev/code_of_conduct#report)
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Body with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. opensource.levabrands.ev/code_of_conduct/policy#more_info
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Body with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [opensource.levabrands.dev/code_of_conduct/policy/more_info](https://opensource.levabrands.dev/code_of_conduct/policy#more_info)
 
 Code of Conduct
 
