@@ -1,6 +1,6 @@
 This is free Leva License.
 
-© Leva Company 2019-2022
+© Leva Company 2019-2026
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
